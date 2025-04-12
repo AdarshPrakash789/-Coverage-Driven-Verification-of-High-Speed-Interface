@@ -63,7 +63,7 @@ make run
 urg -dir simv.vdb
 ```
 
-## Sample Code Files
+## Code Files
 
 ### rtl/pcie_top.sv
 ```systemverilog
